@@ -1,0 +1,58 @@
+# Java / Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.env
+application-local.yml
+application-local.properties
+secrets/
+
+# Spring Boot
+/mvnw
+/mvnw.cmd
+.mvn/
+
+# H2 Database
+*.db
+*.mv.db
+*.trace.db
+
+# Misc
+*.bak
+*.tmp
+*.temp

@@ -1,0 +1,87 @@
+# DTE Application Settings
+
+spring:
+  application:
+    name: dte-api
+
+  # Database - using H2 for development
+  datasource:
+    url: jdbc:h2:mem:dtedb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+
+  # JPA settings
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.H2Dialect
+
+  # H2 web console
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+
+  # JSON settings
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    default-property-inclusion: non_null
+
+# Server
+server:
+  port: ${PORT:8080}
+  error:
+    include-message: always
+    include-binding-errors: always
+
+# Quiz settings
+dte:
+  quiz:
+    questions-per-axis: 10
+    total-questions: 30
+  scoring:
+    exponent: 2.0
+
+# Logging
+logging:
+  level:
+    root: INFO
+    com.dte: DEBUG
+    org.springframework.web: INFO
+    org.hibernate.SQL: DEBUG
+
+---
+# Production profile
+spring:
+  config:
+    activate:
+      on-profile: prod
+  
+  datasource:
+    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5432}/${DB_NAME:dte_db}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+  
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+  
+  h2:
+    console:
+      enabled: false
+
+logging:
+  level:
+    root: WARN
+    com.dte: INFO

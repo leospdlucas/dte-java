@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "axis": "M",
+    "text": "I prefer to live in a very safe place, even if it means having less freedom. For example: I accept cameras everywhere, curfews at night, or showing ID to enter certain areas."
+  },
+  {
+    "id": 2,
+    "axis": "M",
+    "text": "I don't mind if the government checks my messages and calls to fight crime. For example: if police want to read my texts without permission, that's fine - I have nothing to hide."
+  },
+  {
+    "id": 3,
+    "axis": "M",
+    "text": "Traitors deserve the worst punishments. For example: anyone who shares military secrets or helps enemies should get life in prison or death penalty."
+  },
+  {
+    "id": 4,
+    "axis": "M",
+    "text": "A society only works with clear hierarchy and obedience. For example: soldiers must obey officers, children must respect parents, workers must follow bosses."
+  },
+  {
+    "id": 5,
+    "axis": "M",
+    "text": "In a big crisis, the government should have special powers, even if some rights are suspended. For example: during a pandemic or war, I accept lockdowns or censorship."
+  },
+  {
+    "id": 6,
+    "axis": "M",
+    "text": "Those who disrespect national symbols don't deserve to live here. For example: anyone who burns the flag or insults the anthem should lose citizenship."
+  },
+  {
+    "id": 7,
+    "axis": "M",
+    "text": "A country is only respected if it has powerful armed forces. For example: we should spend a lot on tanks and jets, even if we cut other things."
+  },
+  {
+    "id": 8,
+    "axis": "M",
+    "text": "A good criminal is one in jail - or worse. For example: I support longer sentences and more police freedom, even if they make mistakes sometimes."
+  },
+  {
+    "id": 9,
+    "axis": "M",
+    "text": "Frequent changes in government only slow down the country. For example: it would be better to have a strong leader for 10-20 years to make big changes."
+  },
+  {
+    "id": 10,
+    "axis": "M",
+    "text": "The safety of good citizens must come before criminal rights. For example: if a suspect dies during a police operation, I see no problem."
+  },
+  {
+    "id": 11,
+    "axis": "M",
+    "text": "Illegal immigrants should be sent back right away, no exceptions. For example: even if they've been here for years or have kids here - they must go."
+  },
+  {
+    "id": 12,
+    "axis": "M",
+    "text": "Military service should be longer and harder. For example: every young person should serve at least 2 years, learning discipline and love for country."
+  },
+  {
+    "id": 13,
+    "axis": "M",
+    "text": "Protests should have stricter limits. For example: blocking streets or strikes that affect hospitals should mean jail time."
+  },
+  {
+    "id": 14,
+    "axis": "M",
+    "text": "Police should be able to use deadly force more easily. For example: if a suspect runs or fights back, the officer should shoot without fear of punishment."
+  },
+  {
+    "id": 15,
+    "axis": "M",
+    "text": "National borders are sacred and must be protected at any cost. For example: we should build walls and use military tech to stop all illegal entry."
+  },
+  {
+    "id": 16,
+    "axis": "M",
+    "text": "Good citizens should have full right to carry guns. For example: anyone without a criminal record should be able to buy and carry a gun."
+  },
+  {
+    "id": 17,
+    "axis": "M",
+    "text": "Loyalty to your own country must come before any global cause. For example: we must defend our country first, even against international rules."
+  },
+  {
+    "id": 18,
+    "axis": "M",
+    "text": "Schools should teach more patriotism and respect for authority. For example: singing the anthem weekly and studying national heroes."
+  },
+  {
+    "id": 19,
+    "axis": "M",
+    "text": "Extremist groups should be watched by police. For example: radical groups should have undercover agents to stop threats before they happen."
+  },
+  {
+    "id": 20,
+    "axis": "M",
+    "text": "The death penalty should exist for terrible crimes. For example: child abusers, serial killers, or terrorists should be executed."
+  },
+  {
+    "id": 21,
+    "axis": "M",
+    "text": "The government should be able to block websites that threaten public order. For example: sites that spread fake news or organize illegal protests should be shut down quickly."
+  },
+  {
+    "id": 22,
+    "axis": "M",
+    "text": "Prisons should be harder, not more comfortable. For example: no TV, no gym, no visits. Criminals must pay for what they did."
+  },
+  {
+    "id": 23,
+    "axis": "M",
+    "text": "In case of war, everyone should help. For example: if attacked, every able citizen should fight or work in defense, with no option to refuse."
+  },
+  {
+    "id": 24,
+    "axis": "M",
+    "text": "National identity is being destroyed by globalization. For example: we are losing our culture because of foreign influences and big companies."
+  },
+  {
+    "id": 25,
+    "axis": "M",
+    "text": "Strong leaders are better than politicians who keep making deals. For example: I prefer a president who makes quick firm decisions, even if controversial."
+  },
+  {
+    "id": 26,
+    "axis": "M",
+    "text": "Respect for flag and anthem should be required by law. For example: disrespecting these symbols should mean fines or even jail."
+  },
+  {
+    "id": 27,
+    "axis": "M",
+    "text": "The traditional family is the base of the nation and must be protected. For example: the government should give benefits to traditional marriages with children."
+  },
+  {
+    "id": 28,
+    "axis": "M",
+    "text": "International organizations like the UN interfere too much. For example: they keep criticizing us - we should ignore them or leave."
+  },
+  {
+    "id": 29,
+    "axis": "M",
+    "text": "Order and discipline are more important than creativity and freedom. For example: an organized society where everyone knows their place works better."
+  },
+  {
+    "id": 30,
+    "axis": "M",
+    "text": "War veterans and police deserve special status. For example: those who risk their lives should get higher retirement and public recognition."
+  },
+  {
+    "id": 31,
+    "axis": "C",
+    "text": "The government only slows down the economy - less interference is better. For example: companies should hire and fire freely, without strict labor laws."
+  },
+  {
+    "id": 32,
+    "axis": "C",
+    "text": "Those who risk everything to start a business deserve to get rich. For example: if someone quit their job and worked 16 hours a day to succeed, they earned every cent."
+  },
+  {
+    "id": 33,
+    "axis": "C",
+    "text": "High taxes are basically legal theft. For example: it's unfair for the government to take 30-40% of my salary for bureaucracy and corrupt politicians."
+  },
+  {
+    "id": 34,
+    "axis": "C",
+    "text": "If you're poor, it's mostly your own fault. For example: there are stories of people who came from nothing and got rich - those who work hard can succeed."
+  },
+  {
+    "id": 35,
+    "axis": "C",
+    "text": "The free market solves problems better than the government. For example: private hospitals work better than public ones; Uber is better than regulated taxis."
+  },
+  {
+    "id": 36,
+    "axis": "C",
+    "text": "Each person is responsible for their own success or failure. For example: blaming the system or racism is just an excuse from those who don't want to work."
+  },
+  {
+    "id": 37,
+    "axis": "C",
+    "text": "There should be no limit to how rich someone can get. For example: if Elon Musk made 200 billion, it's because he created value - government shouldn't limit that."
+  },
+  {
+    "id": 38,
+    "axis": "C",
+    "text": "Too many labor laws do more harm than good. For example: strict rules make companies inflexible and protect bad employees."
+  },
+  {
+    "id": 39,
+    "axis": "C",
+    "text": "Billionaires are heroes who drive the economy. For example: without entrepreneurs, millions wouldn't have jobs - we should admire them."
+  },
+  {
+    "id": 40,
+    "axis": "C",
+    "text": "Politicians don't understand economics and should interfere less. For example: decisions about money should be made by economists, not legislators."
+  },
+  {
+    "id": 41,
+    "axis": "C",
+    "text": "Privatizing state companies is always the best solution. For example: postal services and banks would work better if sold to private business."
+  },
+  {
+    "id": 42,
+    "axis": "C",
+    "text": "Unions are mafias that only slow down workers. For example: they strike for any reason and their leaders get rich from worker fees."
+  },
+  {
+    "id": 43,
+    "axis": "C",
+    "text": "Minimum wage should be set by the market, not government. For example: if government forces higher pay, companies just won't hire."
+  },
+  {
+    "id": 44,
+    "axis": "C",
+    "text": "Welfare programs create dependency and laziness. For example: they make people prefer to stay home getting money rather than work."
+  },
+  {
+    "id": 45,
+    "axis": "C",
+    "text": "Meritocracy is the fairest system. For example: those who study and work more deserve to earn more - no need to level everyone down for equality."
+  },
+  {
+    "id": 46,
+    "axis": "C",
+    "text": "Inheritances shouldn't be taxed - the money was already taxed once. For example: if my father worked and paid taxes, government shouldn't take part of what he left me."
+  },
+  {
+    "id": 47,
+    "axis": "C",
+    "text": "Competition always improves products and services. For example: when companies compete, prices go down and quality goes up."
+  },
+  {
+    "id": 48,
+    "axis": "C",
+    "text": "Too many environmental rules slow down development. For example: we have land and resources but can't use them because of rules made by foreign groups."
+  },
+  {
+    "id": 49,
+    "axis": "C",
+    "text": "Education should be a personal investment, not a government job. For example: those who want to study should pay - others shouldn't fund their college."
+  },
+  {
+    "id": 50,
+    "axis": "C",
+    "text": "Entrepreneurs take risks that employees don't, so they deserve much more pay. For example: if the company fails, the owner loses everything."
+  },
+  {
+    "id": 51,
+    "axis": "C",
+    "text": "Inequality is natural and even needed for progress. For example: if everyone earned the same, no one would try harder or innovate."
+  },
+  {
+    "id": 52,
+    "axis": "C",
+    "text": "Private health plans are better than public ones. For example: those who can pay should leave public healthcare - more would be left for those who need it."
+  },
+  {
+    "id": 53,
+    "axis": "C",
+    "text": "Profit is the best sign that a company is doing something right. For example: if a company makes profit, it's delivering what people want."
+  },
+  {
+    "id": 54,
+    "axis": "C",
+    "text": "Rich countries got rich through merit, not exploitation. For example: USA and Japan are rich because of hard work and education, not stealing."
+  },
+  {
+    "id": 55,
+    "axis": "C",
+    "text": "Free international trade benefits everyone. For example: when countries trade freely, each makes what they're best at and everyone gets better products."
+  },
+  {
+    "id": 56,
+    "axis": "C",
+    "text": "Startups show that anyone can get rich with a good idea. For example: Zuckerberg made Facebook in his dorm room - opportunity exists for the brave."
+  },
+  {
+    "id": 57,
+    "axis": "C",
+    "text": "Government should run like a company: lean and efficient. For example: cut costs, fire unproductive workers, outsource services."
+  },
+  {
+    "id": 58,
+    "axis": "C",
+    "text": "Private charity is more efficient than government programs. For example: when you donate directly, money reaches those in need - through government, it disappears."
+  },
+  {
+    "id": 59,
+    "axis": "C",
+    "text": "Rich people who donate do more good than any tax. For example: Bill Gates with his foundation saved more lives than many governments."
+  },
+  {
+    "id": 60,
+    "axis": "C",
+    "text": "Business failure is part of learning and shouldn't be punished. For example: many successful entrepreneurs failed many times before getting it right."
+  },
+  {
+    "id": 61,
+    "axis": "R",
+    "text": "Without God or some faith, life has no real meaning. For example: atheists may seem happy, but only spirituality gives real purpose to life."
+  },
+  {
+    "id": 62,
+    "axis": "R",
+    "text": "There is a moral law higher than human laws. For example: even if abortion is legal, it's still wrong in God's eyes - divine law is worth more."
+  },
+  {
+    "id": 63,
+    "axis": "R",
+    "text": "The wisdom of religious traditions is worth more than modern trends. For example: traditional marriage and Christian values worked for 2000 years - don't abandon them."
+  },
+  {
+    "id": 64,
+    "axis": "R",
+    "text": "Those who practice spirituality have a peace that money doesn't give. For example: people who pray or go to church are more balanced than those who only seek wealth."
+  },
+  {
+    "id": 65,
+    "axis": "R",
+    "text": "Moral relativism is destroying society. For example: when we say everyone has their own truth, we open the door to all kinds of decay."
+  },
+  {
+    "id": 66,
+    "axis": "R",
+    "text": "Families that practice faith together are more united. For example: going to church every Sunday and praying before meals creates a stable home."
+  },
+  {
+    "id": 67,
+    "axis": "R",
+    "text": "No matter how successful someone is, without faith something is missing. For example: rich celebrities who get depressed prove that money doesn't fill the void."
+  },
+  {
+    "id": 68,
+    "axis": "R",
+    "text": "In the hardest moments of life, only faith truly helps. For example: when someone loses a child or gets a bad diagnosis, belief in something greater saves them."
+  },
+  {
+    "id": 69,
+    "axis": "R",
+    "text": "Spiritual experiences like miracles and answered prayers are real. For example: I know people who were healed after prayers - those who deny never felt God's power."
+  },
+  {
+    "id": 70,
+    "axis": "R",
+    "text": "Spiritual values protect against modern temptations. For example: young people in church are less likely to use drugs or commit crime."
+  },
+  {
+    "id": 71,
+    "axis": "R",
+    "text": "Science can't explain everything - some mysteries only faith can reach. For example: where did the universe come from? What happens after death? Religion has answers."
+  },
+  {
+    "id": 72,
+    "axis": "R",
+    "text": "Society was better when religion had more influence. For example: in the past there was more respect, less violence, more stable families."
+  },
+  {
+    "id": 73,
+    "axis": "R",
+    "text": "Faith gives strength to overcome any problem. For example: people with strong faith face illness and loss with more courage than those who believe nothing."
+  },
+  {
+    "id": 74,
+    "axis": "R",
+    "text": "Moral and religious education should be part of school. For example: children should learn ethical values and the importance of spirituality."
+  },
+  {
+    "id": 75,
+    "axis": "R",
+    "text": "Marriage is sacred, not just a legal contract. For example: it's a union blessed by God - easy divorce weakens this institution."
+  },
+  {
+    "id": 76,
+    "axis": "R",
+    "text": "Human life is sacred from conception to natural death. For example: abortion and euthanasia are wrong because only God decides when life begins or ends."
+  },
+  {
+    "id": 77,
+    "axis": "R",
+    "text": "Gratitude and humility are more important than personal success. For example: a humble person, even if poor, lives happier than a proud ambitious one."
+  },
+  {
+    "id": 78,
+    "axis": "R",
+    "text": "Religious communities offer belonging that social media never will. For example: in church you find real support and true friendships."
+  },
+  {
+    "id": 79,
+    "axis": "R",
+    "text": "Forgiveness is more powerful than revenge. For example: holding grudges only hurts yourself - forgiving brings inner peace."
+  },
+  {
+    "id": 80,
+    "axis": "R",
+    "text": "Nature is a divine creation that we must care for with respect. For example: the perfection of ecosystems proves a creative intelligence - not random chance."
+  },
+  {
+    "id": 81,
+    "axis": "R",
+    "text": "Spiritual practices like meditation and prayer improve mental health. For example: studies show religious people have less anxiety and depression."
+  },
+  {
+    "id": 82,
+    "axis": "R",
+    "text": "Death is not the end, but a passage to another life. For example: believing in afterlife gives comfort and removes fear of death."
+  },
+  {
+    "id": 83,
+    "axis": "R",
+    "text": "The Ten Commandments are the foundation of any civilized society. For example: don't kill, don't steal, don't lie - these should guide all laws."
+  },
+  {
+    "id": 84,
+    "axis": "R",
+    "text": "Faith helps me accept what I cannot change. For example: when something bad happens, understanding it's part of a bigger plan gives me peace."
+  },
+  {
+    "id": 85,
+    "axis": "R",
+    "text": "Love for others is the most important rule. For example: helping those in need and being generous - these are true marks of a good person."
+  },
+  {
+    "id": 86,
+    "axis": "R",
+    "text": "Modesty and simplicity are forgotten values today. For example: the culture of showing off and selfies goes against spiritual humility."
+  },
+  {
+    "id": 87,
+    "axis": "R",
+    "text": "Religious leaders have special wisdom to guide people. For example: priests and pastors dedicate their lives to spiritual study - their advice is valuable."
+  },
+  {
+    "id": 88,
+    "axis": "R",
+    "text": "Religious rituals and holidays give rhythm and meaning to life. For example: Christmas, Easter - these dates connect us with something greater."
+  },
+  {
+    "id": 89,
+    "axis": "R",
+    "text": "Conscience is the voice of God within us. For example: that feeling of guilt when we do wrong or peace when we do right - that's our spiritual guide."
+  },
+  {
+    "id": 90,
+    "axis": "R",
+    "text": "The spiritual quest is what makes humans different from animals. For example: we are the only beings who question the meaning of life and seek transcendence."
+  }
+]
