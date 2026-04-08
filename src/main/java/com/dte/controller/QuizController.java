@@ -132,7 +132,7 @@ public class QuizController {
 
     // ==================== Utility ====================
 
-    // Health check
+    // Health check - To know if service is running and questions are loaded
     @GetMapping("/health")
     public ResponseEntity<Map<String, Object>> healthCheck() {
         Map<String, Object> health = new HashMap<>();
@@ -142,7 +142,7 @@ public class QuizController {
         return ResponseEntity.ok(health);
     }
 
-    // Ping
+    // Ping - If the user is slow to answer, the app can ping this endpoint to keep the session alive and show a loading indicator
     @GetMapping("/ping")
     public ResponseEntity<Map<String, String>> ping() {
         Map<String, String> response = new HashMap<>();
