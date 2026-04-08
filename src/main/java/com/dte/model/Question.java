@@ -4,48 +4,46 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 // This class holds one question from the quiz
 public class Question {
-    
-    private Integer id;
-    private String axis;  // M, C, or R
-    private String text;
 
-    // Empty constructor for JSON
-    public Question() {}
+  private Integer id;
+  private String axis; // M, C, or R
+  private String text;
 
-    public Question(Integer id, String axis, String text) {
-        this.id = id;
-        this.axis = axis;
-        this.text = text;
-    }
+  // Empty constructor for JSON
+  public Question() {}
 
-    public Integer getId() {
-        return id;
-    }
+  public Question(Integer id, String axis, String text) {
+    this.id = id;
+    this.axis = axis;
+    this.text = text;
+  }
 
-    public void setId(Integer id) {
-        this.id = id;
-    }
+  public Integer getId() {
+    return id;
+  }
 
-    // Hide axis from user so they don't know which category
-    @JsonIgnore
-    public String getAxis() {
-        return axis;
-    }
+  public void setId(Integer id) {
+    this.id = id;
+  }
 
-    public void setAxis(String axis) {
-        this.axis = axis;
-    }
+  public String getAxis() {
+    return axis;
+  }
 
-    public String getText() {
-        return text;
-    }
+  public void setAxis(String axis) {
+    this.axis = axis;
+  }
 
-    public void setText(String text) {
-        this.text = text;
-    }
+  public String getText() {
+    return text;
+  }
 
-    @Override
-    public String toString() {
-        return "Question [id=" + id + ", axis=" + axis + "]";
-    }
+  public void setText(String text) {
+    this.text = text;
+  }
+
+  @Override
+  public String toString() {
+    return "Question [id=" + id + ", axis=" + axis + "]";
+  }
 }

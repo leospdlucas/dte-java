@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DteApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(DteApplication.class, args);
-    }
+  public static void main(String[] args) {
+    SpringApplication.run(DteApplication.class, args);
+  }
 }
