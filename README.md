@@ -206,3 +206,6 @@ mvn spring-boot:run -Dspring.profiles.active=prod
 ## Future Plans
 - JWT authentication (userId field is ready)
 - Frontend integration (CORS is configured)
+
+## Video
+- https://github.com/leospdlucas/dte-java/tree/main/video
